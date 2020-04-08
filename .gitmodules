@@ -1,0 +1,6 @@
+[submodule "Spam4u"]
+	path = Spam4u
+	url = https://github.com/almaember1098/spam4u.git
+[submodule "SmtpClient-for-Qt"]
+	path = SmtpClient-for-Qt
+	url = https://github.com/bluetiger9/SmtpClient-for-Qt.git
